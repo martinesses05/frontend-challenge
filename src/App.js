@@ -59,7 +59,7 @@ export default function App() {
       <br />
       <hr />
       <h3>'FocusableInput' test</h3>
-      <FocusableInput />
+      <FocusableInput focusable={true} />
       <br />
       <hr />
       <h3>'ListItemsForNavigation' test</h3>
